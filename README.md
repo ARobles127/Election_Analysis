@@ -43,9 +43,14 @@ After concluding the analysis of our dataset, the results for this election audi
   - Diana DeGette, who received  73.8% of the vote and 272,892 votes
   
 ## Election-Audit Summary 
-Python is a programming language that has many applications and its low maintenance and debugging process can be easier to perform. For this project we created a series of codes and algorithms to showcast the winner of the congressional race; these same lines of code can be applied in future races with only minimal changes. For example, for this specific project we were given a csv file, for any future application this file will have to be changed and stored in the resources folder. The script can also be modified and adapted to the type of election being conducted. 
+Python is a programming language that has many applications and its low maintenance and debugging process can be easier to perform. For this project we created a series of codes and algorithms to showcast the winner of the congressional race; these same lines of code can be applied in future races with only minimal changes. 
 
-  
+For example, for this specific project we were given a csv file, for any future application this file will have to be changed and stored in the resources folder. The script can also be modified and adapted to the type of election being conducted. 
+
+### Script modifications
+![Modify_County](https://github.com/ARobles127/Election_Analysis/blob/main/Modify_County.png)
+![Update_CSVFile](https://github.com/ARobles127/Election_Analysis/blob/main/Update_CVSFile.png)
+
   
   
   
