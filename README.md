@@ -1,7 +1,7 @@
 # Election_Analysis
 Colorado State Congrssional Race 
 
-##Overview of Election Audit
+## Overview of Election Audit
 In this project we are helping Tom and Seth complete an election audit for the Colorado Board of Elections. In order to complete this task we will use programming languages like Python and interpreter softwares like VS Code to write algorithms that will assist the confirmation and analysis of the election results. Our goal for this project is to deliver clear and unbiased results as well as a report that is easy to understand for non technical people and that can  be used for future projects. 
 
 The tasks that need to be completed for the election audit are listed below. 
@@ -14,10 +14,10 @@ The tasks that need to be completed for the election audit are listed below.
 ### Resources
 The data provided is stored in a CSV file, which is often used to export large datasets from websites or databases. To inspect this data we will use Python that will allow us to create scripts, perform mathematical operations, use decision and repetition statements and produce screen outputs. In order to edit and save our project we will need software that allows us to write and execute scripts, for that we will use Visual Studio Code or VS Code. Lastly, we will use Github to create a repository where Tom and Seth can have access to our code to provide feedback and assistance.  
 
-	- Data Source: election_result.cvs
-	- Python 3.7.6
-	- Visual Studio Code 1.67.1
-	- Github 
+- Data Source: election_result.cvs	
+- Python 3.7.6
+- Visual Studio Code 1.67.1
+- Github 
 
 ## Election-Audit Results 
 After concluding the analysis of our dataset, the results for this election audit are summarized as it follows. 
