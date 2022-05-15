@@ -48,7 +48,10 @@ Python is a programming language that has many applications and its low maintena
 For example, for this specific project we were given a csv file, for any future application this file will have to be changed and stored in the resources folder. The script can also be modified and adapted to the type of election being conducted. 
 
 ### Script modifications
+#### Adapt the word County
 ![Modify_County](https://github.com/ARobles127/Election_Analysis/blob/main/Modify_County.png)
+
+#### Update database
 ![Update_CSVFile](https://github.com/ARobles127/Election_Analysis/blob/main/Update_CVSFile.png)
 
   
